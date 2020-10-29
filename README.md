@@ -2,8 +2,7 @@
 
 Objective: Sentiment Analysis of Twitter data : SGGE2020
 
-1)	Data scrapping : I have sent poc code (bot using beautifiul soup and headless browser) with scrapped 3k data
-Expected data is 10k, 
+1)	Data scrapping 
         
 2)	Annotate the data          
 * [ ] Vader
