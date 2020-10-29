@@ -7,12 +7,12 @@ Expected data is 10k,
         
 2)	Annotate the data          
 * [ ] Vader
-* [ ] Textblob -Please try and experiment both analyser. 
+* [ ] Textblob
 
 
 3)	EDA
 
-* [ ]  Visualization - word cloud  -Will provide more materials
+* [ ]  Visualization - word cloud  
  
 4)	Model building 
 
@@ -26,7 +26,7 @@ Expected data is 10k,
 * Non-supervised <br>
     
 
-* [ ]   LDA Topic modelling -Will provide more materials 
+* [ ]   LDA Topic modelling
 
 5) Conclusion - Insights Discovery
 
