@@ -18,14 +18,14 @@ Objective: Sentiment Analysis of Twitter data : SGGE2020
 * Supervised  
 
 * [ ]  MachineLearning 
-        * [ ] logistic regression
-        * [ ] SVM
-        * [ ] Decision Tree
-        * [ ] Naive bayes
-        * [ ] Ensemble Learning
-                * [ ] Random Forest
-                * [ ] XGBoost
-                * [ ] Voting Classifier 
+        * logistic regression
+        * SVM
+        * Decision Tree
+        * Naive bayes
+        * Ensemble Learning
+                *  Random Forest
+                *  XGBoost
+                *  Voting Classifier </br>
 
 * [ ]  DeepLearning :Keras (NN, LSTM, etc ) 
 
