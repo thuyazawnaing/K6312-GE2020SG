@@ -30,3 +30,4 @@ Objective: Sentiment Analysis of Twitter data : SGGE2020
 5) Conclusion - Insights Discovery
 
 
+Download 'glove.twitter.27B.100d.txt' file and place it into code\util\ folder
