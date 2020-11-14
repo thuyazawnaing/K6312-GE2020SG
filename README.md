@@ -32,14 +32,14 @@ Objective: Sentiment Analysis of Twitter data : SGGE2020
 How to run
 1) Clone the git project & follow the same folder structure
 cd text_analytic/
-test-project/
-├── data        
-├── code         
-├── README.md   
-├── requirement    
+test-project/</br>
+├── data </br>       
+├── code </br>        
+├── README.md   </br>
+├── requirements.txt   </br> 
 
-2) Install dependency file list
-pip install -r requirements.txt
+2) Install dependency file list </br>
+pip install -r requirements.txt </br>
 
-3) Install the General-purpose pretrained models 
-!python3 -m spacy download en_core_web_sm
+3) Install the General-purpose pretrained models </br>
+!python3 -m spacy download en_core_web_sm 
