@@ -29,5 +29,17 @@ Objective: Sentiment Analysis of Twitter data : SGGE2020
 
 5) Conclusion - Insights Discovery
 
+How to run
+1) Clone the git project & follow the same folder structure
+cd text_analytic/
+test-project/
+├── data        
+├── code         
+├── README.md   
+├── requirement    
 
-Download 'glove.twitter.27B.100d.txt' file and place it into code\util\ folder
+2) Install dependency file list
+pip install -r requirements.txt
+
+3) Install the General-purpose pretrained models 
+!python3 -m spacy download en_core_web_sm
