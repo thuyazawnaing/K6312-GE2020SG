@@ -33,9 +33,9 @@ How to run
 1) Clone the git project & follow the same folder structure
 cd text_analytic/
 test-project/</br>
-├── data </br>       
-├── code </br>        
-├── README.md   </br>
+├── data     
+├── code      
+├── README.md  
 ├── requirements.txt   </br> 
 
 2) Install dependency file list </br>
