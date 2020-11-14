@@ -1,4 +1,4 @@
-**# Text_Analytic - Lifecycle**
+**# Text_Analytic - Lifecycle **
 
 Objective: Sentiment Analysis of Twitter data : SGGE2020
 
@@ -17,19 +17,28 @@ Objective: Sentiment Analysis of Twitter data : SGGE2020
 
 * Supervised  
 
-* [ ]  ML FE:(tfidf , countVect)
+* [ ]  MachineLearning 
+        * [ ] logistic regression
+        * [ ] SVM
+        * [ ] Decision Tree
+        * [ ] Naive bayes
+        * [ ] Ensemble Learning
+                * [ ] Random Forest
+                * [ ] XGBoost
+                * [ ] Voting Classifier 
 
-* [ ]  DL (BERT, LSTM, RNN, etc ) 
+* [ ]  DeepLearning :Keras (NN, LSTM, etc ) 
 
 
 * Non-supervised <br>
-    
+  
 
-* [ ]   LDA Topic modelling
+* [ ]   Topic modelling
 
 5) Conclusion - Insights Discovery
 
-How to run
+**# How to Run **
+
 1) Clone the git project & follow the same folder structure
 cd text_analytic/
 test-project/</br>
