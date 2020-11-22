@@ -37,15 +37,14 @@ Objective: Sentiment Analysis & Topic Modelling
                 Random Forest
                 XGBoost
         Secondly, use all the base classifiers as input to train the Ensemble model 
-            
             *  Ensemble Voting Classifier
 
     2.  DeepLearning: Keras 
         
         Model Train from scratch
-            Embedding layer
-            Embedding layer + Convolutional Neural Network
-            Embedding layer + Long short-term memory
+            * Embedding layer
+            * Embedding layer + Convolutional Neural Network
+            * Embedding layer + Long short-term memory
         Pre-trained Model (https://nlp.stanford.edu/projects/glove/)
         
 
