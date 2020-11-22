@@ -19,7 +19,7 @@ Objective: Sentiment Analysis & Topic Modelling
 > Unsupervised Learning 
 
 1. Latent Dirichlet allocation 
-2. Singular Value Decomposition + Kmean clustering
+2. Singular Value Decomposition + K-Means clustering
 
 
 **VI)  Model building**
@@ -64,21 +64,22 @@ K6312-GE2020SG/
 ```
 
 2) Install dependency file list </br>
-pip install -r requirements.txt </br>
+```
+pip install -r requirements.txt 
+```
 
 3) Install the General-purpose pretrained models </br>
+```
 !python3 -m spacy download en_core_web_sm 
+```
 4) Download the pretrained weights "glove.twitter.27B.100d.txt" from (https://nlp.stanford.edu/projects/glove/) </br>
 
-
 ```
-Place the downloaded file in the 
+Place the downloaded file in the code folder
 code
 └───utli
 │   │   glove.twitter.27B.100d.txt
 ```
-
-
 
 **Folder and Files descriptions**
 
