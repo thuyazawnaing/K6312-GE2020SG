@@ -12,9 +12,9 @@ Objective: Sentiment Analysis & Topic Modelling
     *  VaderSentiment
     *  GroundTruth: Both analyzers are used to derive the ground-truth
     
-**IV)	Exploratory Data Analysis**
+**IV.	Exploratory Data Analysis**
 
-**V)  Topic modeling**  
+**V. Topic modeling**  
 
 > Unsupervised Learning 
 
@@ -22,7 +22,7 @@ Objective: Sentiment Analysis & Topic Modelling
 2. Singular Value Decomposition + K-Means clustering
 
 
-**VI)  Model building**
+**VI. Model building**
 
 > Supervised Learning 
 
