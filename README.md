@@ -53,14 +53,15 @@ Objective: Sentiment Analysis & Topic Modelling
 **How to Run**
 
 1) Clone the git project & follow the same folder structure
+```
 cd K6312-GE2020SG/
-K6312-GE2020SG/</br>
+K6312-GE2020SG/
 
 ├── data     
 ├── code      
 ├── README.md  
 ├── requirements.txt   </br> 
-
+```
 
 2) Install dependency file list </br>
 pip install -r requirements.txt </br>
